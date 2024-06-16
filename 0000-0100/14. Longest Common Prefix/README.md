@@ -1,4 +1,4 @@
-<a class="no-underline hover:text-blue-s dark:hover:text-dark-blue-s truncate cursor-text whitespace-normal hover:!text-[inherit]" href="/problems/longest-common-prefix/">14. Longest Common Prefix</a>
+<a class="no-underline hover:text-blue-s dark:hover:text-dark-blue-s truncate cursor-text whitespace-normal hover:!text-[inherit]" href="https://leetcode.com/problems/longest-common-prefix/">14. Longest Common Prefix</a>
 <div class="relative inline-flex items-center justify-center text-caption px-2 py-1 gap-1 rounded-full bg-fill-secondary text-difficulty-easy dark:text-difficulty-easy">Easy</div>
 <div class="elfjS" data-track-load="description_content"><p>Write a function to find the longest common prefix string amongst an array of strings.</p>
 

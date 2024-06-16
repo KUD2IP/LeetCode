@@ -1,4 +1,4 @@
-<a class="no-underline hover:text-blue-s dark:hover:text-dark-blue-s truncate cursor-text whitespace-normal hover:!text-[inherit]" href="/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a>
+<a class="no-underline hover:text-blue-s dark:hover:text-dark-blue-s truncate cursor-text whitespace-normal hover:!text-[inherit]" href="https://leetcode.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists</a>
 <div class="relative inline-flex items-center justify-center text-caption px-2 py-1 gap-1 rounded-full bg-fill-secondary text-difficulty-easy dark:text-difficulty-easy">Easy</div>
 <div class="elfjS" data-track-load="description_content"><p>You are given the heads of two sorted linked lists <code>list1</code> and <code>list2</code>.</p>
 
